@@ -12,4 +12,4 @@ This repository demonstrates various data visualizations created using Python in
 6. **Histogram**: A bar graph that represents the distribution of data points into specified ranges or intervals.
 
 These visualizations offer a clear and intuitive way to analyze, interpret, and communicate data patterns and trends.
-This file is created by Janhavi Rakibe and all rights are reserved
+This file is created by Janhavi Rakibe and all rights are reserved.
